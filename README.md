@@ -1,2 +1,2 @@
 # AugustoZanoni.github.io
-[Brief](augustoZanoni.github.io) on Github Pages
+[Brief](https://augustoZanoni.github.io) on Github Pages
