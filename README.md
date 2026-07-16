@@ -10,9 +10,7 @@ This portfolio is built with modern web technologies:
 
 - **React** - UI framework
 - **Vite** - Build tool and development server
-- **Three.js** - 3D graphics library
-- **@react-three/fiber** - React renderer for Three.js
-- **@react-three/drei** - Useful helpers for React Three Fiber
+- **CSS3** - Animations and parallax effects
 
 ## 💻 Tech Stack Showcase
 
@@ -59,10 +57,13 @@ This creates an optimized production build in the `dist/` folder.
 
 ## 🌟 Features
 
-- **Interactive 3D Globe**: Built with Three.js, featuring smooth animations and orbit controls
+- **Parallax Background**: Smooth animated gradient layers creating depth
+- **Horizontal Page Navigation**: Book-like page turning experience with left/right navigation
+- **Page Indicators**: Visual dots showing current page position
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Modern UI**: Clean, professional design with smooth animations
-- **Performance Optimized**: Fast loading and smooth interactions
+- **Performance Optimized**: Fast loading (146KB bundle) and smooth interactions
+- **No Vertical Scroll**: Single viewport experience with horizontal pagination
 
 ## 📝 Project Structure
 
